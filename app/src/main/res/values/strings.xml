@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">A18matna_project</string>
+    <string name="app_name">Brormattes Koppar</string>
+    <string name="action_settings">Refresh</string>
+    <string name="about">About</string>
+    <string name="image">image</string>
+    <string name="text_header">Kopp</string>
 </resources>
